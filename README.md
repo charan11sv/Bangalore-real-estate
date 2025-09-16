@@ -17,7 +17,7 @@
 - [Notebook 4 — Modeling & rent calculator tool](#notebook-4--modeling--rent-calculator-tool)
 - [Feature schema (data dictionary)](#feature-schema-data-dictionary)
 - [Design choices & rationale](#design-choices--rationale)
-- [Results snapshot (fill after a run)]
+- [Results snapshot (yet to be added)]
 - [How to run (reproducibility)](#how-to-run-reproducibility)
 - [Extending to other portals/cities](#extending-to-other-portalscities)
 - [Limitations / TODO](#limitations--todo)
